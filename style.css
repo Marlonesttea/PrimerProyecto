@@ -27,7 +27,9 @@ img {
 
 div {
     height: 200px;
-    background-color: aqua;
+    background-color: rgb(0, 0, 255);
+    border: 2px solid red;
+    color: white;
 }
 
 #container1 {
@@ -35,4 +37,4 @@ div {
     height: 100px;
     border: 2px solid green;
     background-color: black ;
-   }
+    }
